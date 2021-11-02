@@ -1,6 +1,6 @@
 ## 💻 Sobre o projeto
 
-♻️ To-do-list-Express - É uma aplicação de gerênciamento de atividades diárias!
+📒 To-do-list-Express - É uma aplicação de gerênciamento de atividades diárias!
 
 
 Projeto está sendo desenvolvido durante o curso [ Programador Full Stack JavaScript. ]
