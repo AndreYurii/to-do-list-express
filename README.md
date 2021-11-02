@@ -28,9 +28,7 @@ Projeto está sendo desenvolvido durante o curso [ Programador Full Stack JavaSc
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="To-do-List" title="#To-do-List" src="" width="400px">
-
-  <img alt="To-do-List" title="#To-do-List" src="" width="400px">
+  <img alt="To-do-List" title="#To-do-List" src="./todo list.png" width="400px">
 </p>
 
 ---
